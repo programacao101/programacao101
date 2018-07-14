@@ -5,6 +5,7 @@ Bem-vindo ao repositório da segunda edição do Programação 101 (antigamente 
 
 
 1° dia 
+
 **Intrudução a programação**
 
 **Pseudocódigo**
@@ -12,6 +13,7 @@ Bem-vindo ao repositório da segunda edição do Programação 101 (antigamente 
 **Boas práticas de programação**
 
 2° dia
+
 **Comandos de repetição**
 
 **Comandos condicionais**
