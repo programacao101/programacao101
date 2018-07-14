@@ -23,6 +23,7 @@ Bem-vindo ao repositório da segunda edição do Programação 101 (antigamente 
 exercícios 
 
 4° dia
+
 **Matriz e Vetores**
 
 5° dia
