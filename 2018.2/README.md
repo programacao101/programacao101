@@ -6,7 +6,7 @@ Bem-vindo ao repositório da segunda edição do Programação 101 (antigamente 
 
 1° dia 
 
-**Intrudução a programação**
+**Introdução a programação**
 
 **Pseudocódigo**
 
@@ -20,15 +20,15 @@ Bem-vindo ao repositório da segunda edição do Programação 101 (antigamente 
 
 3° dia
 
-exercícios 
+**Exercícios** 
 
 4° dia
 
-**Matriz e Vetores**
+**Matrizes e Vetores**
 
 5° dia
 
-**String** 
+**Strings** 
 
 6° dia
 
