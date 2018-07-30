@@ -1,2 +1,0 @@
-# EDITAR
-Exercícios do curso
