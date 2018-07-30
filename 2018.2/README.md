@@ -1,35 +1,21 @@
 # Programação 101
-Bem-vindo ao repositório da segunda edição do Programação 101 (antigamente Pré-AEDs)!
+Bem-vindo ao repositório da segunda edição do Programação 101! Aqui você encontra tudo que foi utilizado/desenvolvido pelo curso, ali em cima ou através destes links:
 
-## Cronograma
+- [Códigos feitos durante as aulas](https://github.com/programacao101/programacao101/tree/master/2018.2/codigos)
+- [Exercícios](https://github.com/programacao101/programacao101/tree/master/2018.2/exercicios)
+- [O livro do curso](https://github.com/programacao101/programacao101/tree/master/2018.2/livro)
+- [Os slides do curso](https://github.com/programacao101/programacao101/tree/master/2018.2/slides)
+
+<sub>Abaixo você também encontrará links para o material utilizado em cada aula.</sub>
+
+### Cronograma
 
 
-1° dia 
-
-**Introdução a programação**
-
-**Pseudocódigo**
-
-**Boas práticas de programação**
-
-2° dia
-
-**Comandos de repetição**
-
-**Comandos condicionais**
-
-3° dia
-
-**Exercícios** 
-
-4° dia
-
-**Matrizes e Vetores**
-
-5° dia
-
-**Strings** 
-
-6° dia
-
-**Maratona**
+| Aula | Data | Tema | Links |
+|------|------|------|-------|
+| 01 | 30/07 | <ul><li>Introdução à programação;</li><li>Pseudocódigo;</li><li>Boas práticas de programação.</li></ul> |  |
+| 02 | 31/07 | <ul><li>Comandos de repetição;</li><li>Comandos condicionais.</li></ul> | |
+| 03 | 01/08 | <ul><li>Exercícios.</li></ul> | |
+| 04 | 02/08 | <ul><li>Vetores;</li><li>Matrizes.</li></ul> | |
+| 05 | 03/08 | <ul><li>Strings.</li></ul> | |
+| 06 | 04/08 | <ul><li>Maratona</li></ul> | |
