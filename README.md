@@ -1,10 +1,10 @@
 # Programação 101
 Bem-vindo ao repositório da segunda edição do [Programação 101](http://programacao101.com)! Aqui você encontra tudo que foi utilizado/desenvolvido pelo curso, ali em cima ou através destes links:
 
-- [Códigos feitos durante as aulas](https://github.com/programacao101/programacao101/tree/master/2018.2/codigos)
-- [Exercícios](https://github.com/programacao101/programacao101/tree/master/2018.2/exercicios)
-- [O livro do curso](https://github.com/programacao101/programacao101/tree/master/2018.2/livro)
-- [Os slides do curso](https://github.com/programacao101/programacao101/tree/master/2018.2/slides)
+- [Códigos feitos durante as aulas](./codigos)
+- [Exercícios](./exercicios)
+- [O livro do curso](./livro)
+- [Os slides do curso](./slides)
 
 <sub>Abaixo você também encontrará links para o material utilizado em cada aula.</sub>
 
@@ -20,6 +20,6 @@ Bem-vindo ao repositório da segunda edição do [Programação 101](http://prog
 | 05 | 03/08 | <ul><li>Strings.</li></ul> | |
 | 06 | 04/08 | <ul><li>Maratona</li></ul> | |
 
-[Códigos escritos durante a aula 1]:https://github.com/programacao101/programacao101/tree/feature/2018-2/codigos/aula1
-[Slides aula 1]:https://github.com/programacao101/programacao101/tree/feature/2018-2/slides/aula1
-[Livro do curso]:https://github.com/programacao101/programacao101/blob/feature/2018-2/livro/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o.pdf
+[Códigos escritos durante a aula 1]:./codigos/aula1
+[Slides aula 1]:./slides/aula1
+[Livro do curso]:./livro/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o.pdf
