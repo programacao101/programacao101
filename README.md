@@ -14,7 +14,8 @@ Bem-vindo ao repositório da segunda edição do [Programação 101](http://prog
 | Aula | Data | Tema | Links |
 |------|------|------|-------|
 | 01 | 30/07 | <ul><li>Introdução à programação;</li><li>Pseudocódigo;</li><li>Boas práticas de programação.</li></ul> | <ul><li>[Livro do curso]</li><li>[Códigos escritos durante a aula 1]</li><li>[Slides aula 1]</li></ul>  |
-| 02 | 31/07 | <ul><li>Comandos de repetição;</li><li>Comandos condicionais.</li></ul> | |
+| 02 | 31/07 | <ul><li>Comandos de repetição;</li><li>Comandos 
+condicionais.</li></ul> | <ul><li>[Slides aula 2]</li></ul> |
 | 03 | 01/08 | <ul><li>Exercícios.</li></ul> | |
 | 04 | 02/08 | <ul><li>Vetores;</li><li>Matrizes.</li></ul> | |
 | 05 | 03/08 | <ul><li>Strings.</li></ul> | |
@@ -23,3 +24,4 @@ Bem-vindo ao repositório da segunda edição do [Programação 101](http://prog
 [Códigos escritos durante a aula 1]:./codigos/aula1
 [Slides aula 1]:./slides/aula1
 [Livro do curso]:./livro/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o.pdf
+[Slides aula 2]:./slides/aula2
