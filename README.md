@@ -8,17 +8,17 @@ Bem-vindo ao repositório da segunda edição do [Programação 101](http://prog
 
 <sub>Abaixo você também encontrará links para o material utilizado em cada aula.</sub>
 
-### Cronograma
+### Cronograma 2019/1
 
 
 | Aula | Data | Tema | Links |
 |------|------|------|-------|
-| 01 | 30/07 | <ul><li>Introdução à programação;</li><li>Pseudocódigo;</li><li>Boas práticas de programação.</li></ul> | <ul><li>[Livro do curso]</li><li>[Códigos escritos durante a aula 1]</li><li>[Slides aula 1]</li></ul>  |
-| 02 | 31/07 | <ul><li>Comandos de repetição;</li><li>Comandos condicionais.</li></ul> | <ul><li>[Slides aula 2]</li><li>[Exercícios da aula 2]</li></ul> |
-| 03 | 01/08 | <ul><li>Exercícios.</li></ul> | |
-| 04 | 02/08 | <ul><li>Vetores;</li><li>Matrizes.</li></ul> | |
-| 05 | 03/08 | <ul><li>Strings.</li></ul> | |
-| 06 | 04/08 | <ul><li>Maratona</li></ul> | |
+| 01 | 06/02 | <ul><li>Introdução à programação;</li><li>Pseudocódigo;</li><li>Boas práticas de programação.</li></ul> | <ul><li>[Livro do curso]</li><li>[Códigos escritos durante a aula 1]</li><li>[Slides aula 1]</li></ul>  |
+| 02 | 07/02 | <ul><li>Comandos de repetição;</li><li>Comandos condicionais.</li></ul> | <ul><li>[Slides aula 2]</li><li>[Exercícios da aula 2]</li></ul> |
+| 03 | 08/02 | <ul><li>Exercícios.</li></ul> | |
+| 04 | 13/02 | <ul><li>Vetores;</li><li>Matrizes.</li></ul> | |
+| 05 | 14/02 | <ul><li>Strings.</li></ul> | |
+| 06 | 15/02 | <ul><li>Maratona</li></ul> | |
 
 [Códigos escritos durante a aula 1]:./codigos/aula1
 [Slides aula 1]:./slides/aula1
