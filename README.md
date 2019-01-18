@@ -25,3 +25,4 @@ Bem-vindo ao repositório da segunda edição do [Programação 101](http://prog
 [Livro do curso]:./livro/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o.pdf
 [Slides aula 2]:./slides/aula2
 [Exercícios da aula 2]:./exercicios/aula2
+[Slides aula 4]:./slides/aula4
