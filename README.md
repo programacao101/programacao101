@@ -16,7 +16,7 @@ Bem-vindo ao repositório da segunda edição do [Programação 101](http://prog
 | 01 | 06/02 | <ul><li>Introdução à programação;</li><li>Pseudocódigo;</li><li>Boas práticas de programação.</li></ul> | <ul><li>[Livro do curso]</li><li>[Códigos escritos durante a aula 1]</li><li>[Slides aula 1]</li></ul>  |
 | 02 | 07/02 | <ul><li>Comandos de repetição;</li><li>Comandos condicionais.</li></ul> | <ul><li>[Slides aula 2]</li><li>[Exercícios da aula 2]</li></ul> |
 | 03 | 08/02 | <ul><li>Exercícios.</li></ul> | |
-| 04 | 13/02 | <ul><li>Vetores;</li><li>Matrizes.</li></ul> | |
+| 04 | 13/02 | <ul><li>Vetores;</li><li>Matrizes.</li></ul> |<ul><li>[Slides aula 4]</li></ul> |
 | 05 | 14/02 | <ul><li>Strings.</li></ul> | |
 | 06 | 15/02 | <ul><li>Maratona</li></ul> | |
 
