@@ -6,3 +6,4 @@ Aqui estão os exercícios dado em cada dia de aula, separados por dia.
 
 - [Exercícios da aula 1](./aula1)
 - [Exercícios da aula 2](./aula2)
+- [Exercícios da aula 5](./aula5)
