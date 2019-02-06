@@ -19,7 +19,7 @@ Bem-vindo ao repositório da segunda edição do [Programação 101](http://prog
 | 03 | 08/02 | <ul><li>Exercícios.</li></ul> | |
 | 04 | 13/02 | <ul><li>Vetores;</li><li>Matrizes.</li></ul> |<ul><li>[Slides aula 4]</li><li>[Exercícios da aula 4]</li><li>[Códigos escritos durante a aula 4]</li></ul> |
 | 05 | 14/02 | <ul><li>Strings.</li></ul> |<ul><li>[Slides aula 5]</li><li>[Exercícios da aula 5]</li><li>[Códigos escritos durante a aula 5]</li></ul> |
-| 06 | 15/02 | <ul><li>Maratona</li></ul> | |
+| 06 | 15/02 | <ul><li>Maratona</li></ul> |<ul><li>[URI online Jugde](https://www.urionlinejudge.com.br/judge/en/login)</li></ul>|
 
 [Livro do curso]:./Livro/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o.pdf
 [Material Extra]:./Material-extra
