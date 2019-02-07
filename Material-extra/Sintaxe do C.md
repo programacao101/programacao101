@@ -43,4 +43,4 @@ int main () {
 
 ## Links Úteis
 * [Operadores em C | Wikipédia](https://pt.wikipedia.org/wiki/Operadores_em_C_e_C%2B%2B)
-* [Programar em C - Entrada e saída simples | Wikibooks](https://pt.wikipedia.org/wiki/Operadores_em_C_e_C%2B%2B)
+* [Programar em C - Entrada e saída simples | Wikibooks](https://pt.wikibooks.org/wiki/Programar_em_C/Entrada_e_sa%C3%ADda_simples#Especifica%C3%A7%C3%B5es_de_formato)
