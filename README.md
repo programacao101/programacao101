@@ -16,7 +16,7 @@ Bem-vindo ao repositório da segunda edição do [Programação 101](http://prog
 |------|------|------|-------|
 | 01 | 06/02 | <ul><li>Introdução à programação;</li><li>Pseudocódigo;</li><li>Boas práticas de programação.</li></ul> | <ul><li>[Slides aula 1]</li><li>[Exercícios da aula 1]</li><li>[Códigos escritos durante a aula 1]</li></ul>  |
 | 02 | 07/02 | <ul><li>Comandos de repetição;</li><li>Comandos condicionais.</li></ul> | <ul><li>[Slides aula 2]</li><li>[Exercícios da aula 2]</li><li>[Códigos escritos durante a aula 2]</li></ul> |
-| 03 | 08/02 | <ul><li>Exercícios.</li></ul> | |
+| 03 | 08/02 | <ul><li>Exercícios.</li></ul> |<ul><li>[Exercícios da aula 3]</li></ul> |
 | 04 | 13/02 | <ul><li>Vetores;</li><li>Matrizes.</li></ul> |<ul><li>[Slides aula 4]</li><li>[Exercícios da aula 4]</li><li>[Códigos escritos durante a aula 4]</li></ul> |
 | 05 | 14/02 | <ul><li>Strings.</li></ul> |<ul><li>[Slides aula 5]</li><li>[Exercícios da aula 5]</li><li>[Códigos escritos durante a aula 5]</li></ul> |
 | 06 | 15/02 | <ul><li>Maratona</li></ul> |<ul><li>[URI online Jugde](https://www.urionlinejudge.com.br/judge/en/login)</li></ul>|
@@ -29,6 +29,7 @@ Bem-vindo ao repositório da segunda edição do [Programação 101](http://prog
 [Slides aula 2]:./Slides/aula2
 [Exercícios da aula 2]:./Exercícios/aula2
 [Códigos escritos durante a aula 2]:./Códigos/aula2
+[Exercícios da aula 3]:./Exercícios/aula3
 [Slides aula 4]:./Slides/aula4
 [Exercícios da aula 4]:./Exercícios/aula4
 [Códigos escritos durante a aula 4]:./Códigos/aula4
