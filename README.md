@@ -1,5 +1,5 @@
 # Programação 101
-Bem-vindo ao repositório da segunda edição do [Programação 101](http://programacao101.com)! Aqui você encontra tudo que foi utilizado/desenvolvido pelo curso, ali em cima ou através destes links:
+Bem-vindo ao repositório da terceira edição do [Programação 101](http://programacao101.com)! Aqui você encontra tudo que foi utilizado/desenvolvido pelo curso, ali em cima ou através destes links:
 
 - [Códigos feitos durante as aulas](./Códigos)
 - [Exercícios](./Exercícios)
