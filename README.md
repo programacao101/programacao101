@@ -8,6 +8,7 @@ Bem-vindo ao repositório da terceira edição do [Programação 101](http://pro
 - [O livro do curso](./Livro)
 - [Os slides do curso](./Slides)
 - [O material extra](./Material-extra)
+- [O fórum de perguntas](https://www.programacao101.com/forum)
 
 <sub>Abaixo você também encontrará links para o material utilizado em cada aula.</sub>
 
