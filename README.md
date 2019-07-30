@@ -1,4 +1,6 @@
 # Programação 101
+**Se você baixou o livro antes de 21:47 de 29/07, há uma nova versão disponível!**
+
 Bem-vindo ao repositório da terceira edição do [Programação 101](http://programacao101.com)! Aqui você encontra tudo que foi utilizado/desenvolvido pelo curso, ali em cima ou através destes links:
 
 - [Códigos feitos durante as aulas](./Códigos)
@@ -14,12 +16,12 @@ Bem-vindo ao repositório da terceira edição do [Programação 101](http://pro
 
 | Aula | Data | Tema | Links |
 |------|------|------|-------|
-| 01 | 06/02 | <ul><li>Introdução à programação;</li><li>Pseudocódigo;</li><li>Boas práticas de programação.</li></ul> | <ul><li>[Slides aula 1]</li><li>[Exercícios da aula 1]</li><li>[Códigos escritos durante a aula 1]</li></ul>  |
-| 02 | 07/02 | <ul><li>Comandos de repetição;</li><li>Comandos condicionais.</li></ul> | <ul><li>[Slides aula 2]</li><li>[Exercícios da aula 2]</li><li>[Códigos escritos durante a aula 2]</li><li>[Resoluções dos exercícios da aula 2]</li></ul> |
-| 03 | 08/02 | <ul><li>Exercícios.</li></ul> |<ul><li>[Exercícios da aula 3]</li></ul> |
-| 04 | 13/02 | <ul><li>Vetores;</li><li>Matrizes.</li></ul> |<ul><li>[Slides aula 4]</li><li>[Exercícios da aula 4]</li><li>[Códigos escritos durante a aula 4]</li></ul> |
-| 05 | 14/02 | <ul><li>Strings.</li></ul> |<ul><li>[Slides aula 5]</li><li>[Exercícios da aula 5]</li><li>[Códigos escritos durante a aula 5]</li></ul> |
-| 06 | 15/02 | <ul><li>Maratona</li></ul> |<ul><li>[URI online Jugde](https://www.urionlinejudge.com.br/judge/en/login)</li></ul>|
+| 01 | 29/07 | <ul><li>Introdução à programação;</li><li>Pseudocódigo;</li><li>Boas práticas de programação.</li></ul> | <ul><li>[Slides aula 1]</li><li>[Exercícios da aula 1]</li><li>[Códigos escritos durante a aula 1]</li></ul>  |
+| 02 | 30/07 | <ul><li>Comandos de repetição;</li><li>Comandos condicionais.</li></ul> | <ul><li>[Slides aula 2]</li><li>[Exercícios da aula 2]</li><li>[Códigos escritos durante a aula 2]</li><li>[Resoluções dos exercícios da aula 2]</li></ul> |
+| 03 | 31/07 | <ul><li>Exercícios.</li></ul> |<ul><li>[Exercícios da aula 3]</li></ul> |
+| 04 | 01/08 | <ul><li>Vetores;</li><li>Matrizes.</li></ul> |<ul><li>[Slides aula 4]</li><li>[Exercícios da aula 4]</li><li>[Códigos escritos durante a aula 4]</li></ul> |
+| 05 | 02/08 | <ul><li>Strings.</li></ul> |<ul><li>[Slides aula 5]</li><li>[Exercícios da aula 5]</li><li>[Códigos escritos durante a aula 5]</li></ul> |
+| 06 | 03/08 | <ul><li>Maratona</li></ul> |<ul><li>[URI online Jugde](https://www.urionlinejudge.com.br/judge/en/login)</li></ul>|
 
 [Livro do curso]:./Livro/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o.pdf
 [Material Extra]:./Material-extra
