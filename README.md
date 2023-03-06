@@ -1,5 +1,4 @@
 # Programação 101
-**Se você baixou o livro antes de 21:47 de 29/07, há uma nova versão disponível!**
 
 Bem-vindo ao repositório da terceira edição do [Programação 101](http://programacao101.com)! Aqui você encontra tudo que foi utilizado/desenvolvido pelo curso, ali em cima ou através destes links:
 
